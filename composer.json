@@ -1,15 +1,15 @@
 {
-	"name": "frozensheep/epc-generator",
+	"name": "XxLilBoPeepsxX/epc-generator",
 	"type": "library",
 	"description": "PHP library for generating Energy Performance Certificates (EPC's)",
 	"keywords": ["Energy Performance Certificate", "energy", "epc", "property", "renting", "sales", "real estate", "houses", "2002 91 EC"],
-	"homepage": "https://github.com/frozensheep/EPCGenerator",
+	"homepage": "https://github.com/XxLilBoPeepsxX/EPCGenerator",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Jacob Wyke",
-			"email": "jacob@frozensheep.com",
-			"homepage": "https://frozensheep.com"
+			"name": "Andrew Henke",
+			"email": "andrew@andrewhenke.com",
+			"homepage": "https://andrewhenke.com/"
 		}
 	],
 	"require": {
@@ -17,12 +17,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Frozensheep\\EPCGenerator\\": "src"
+			"XxLilBoPeepsxX\\EPCGenerator\\": "src"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"Frozensheep\\EPCGenerator\\Tests\\": "tests"
+			"XxLilBoPeepsxX\\EPCGenerator\\Tests\\": "tests"
 		}
 	}
 }
